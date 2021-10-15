@@ -1,0 +1,14 @@
+h1{
+    color: blue;
+}
+#thirdDiv{
+    background-color:green;
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    border-style: solid ;
+}
+.divclass #spanId{
+    font-size: 25px;
+    margin: 50px;            
+}
